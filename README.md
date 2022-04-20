@@ -23,8 +23,8 @@ I like to learn new things, if you need help do not hesitate to ask me, we can c
 
 📈 my github stats
 <div align="center">
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto0414&show_icons=true&theme=gotham" alt="Augusto0414" />
-<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0414&layout=compact&langs_count=7&theme=gotham"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Augusto0414&show_icons=true&theme=gotham" alt="Augusto0414" />
+<img height="170em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0414&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
