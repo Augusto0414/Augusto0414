@@ -1,4 +1,4 @@
- <h1>console.log("Hi, my name is Augusto Rafael") <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <h1>console.log("Hi, my name is Augusto Rafael")<span><img src="https://user-images.githubusercontent.com/79212373/171908796-284fbe3e-a3ac-41ac-82f4-3e42c98a516a.gif" width="35px" height = "35px"></span></h1>
 
 <a href="https://www.instagram.com/augustorafaelaraujo/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -23,8 +23,10 @@ I like to learn new things, if you need help do not hesitate to ask me, we can c
 
 <h2>📈 my github stats</h2>
 <div  align="center">
+ <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Augusto0414&show_icons=true&theme=gotham" alt="Augusto0414" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0414&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto0414&layout=compact&langs_count=7&theme=gotham"/>
+ </p>
 </div>
 
 
