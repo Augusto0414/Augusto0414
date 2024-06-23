@@ -1,5 +1,5 @@
 
- <h1 >console.log("Hi, I'm Augusto Rafael")<span><img src="https://user-images.githubusercontent.com/79212373/171908796-284fbe3e-a3ac-41ac-82f4-3e42c98a516a.gif" width="35px" height = "55px"></span></h1>
+ <h1 >console.log("Hi, I'm Augusto Rafael")<span><img src="https://user-images.githubusercontent.com/79212373/171908796-284fbe3e-a3ac-41ac-82f4-3e42c98a516a.gif" width="35px" height = "35px"></span></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
