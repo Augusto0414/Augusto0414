@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Augusto0414.Augusto0414)
+
 
 <br />
 <div id="user-content-toc">
